@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Akshit Mahajan.
+- 👀 I’m interested in Front End and Programming languages.
+- 🌱 I’m currently learning Front End.
+- 💞️ I’m looking for internships to get industrial knowledge.
+- 📫 To reach me - akshit628325@gmail.com.
