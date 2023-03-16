@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshit Mahajan.
-- 👀 I’m interested in full stack and Programming languages.
-- 🌱 I’m currently learning full stack.
-- 💞️ I’m looking for projects||internships to get industrial knowledge.
+- 👀 I’m interested in Data Structure and Programming languages.
+- 🌱 Currently I am learning Android Studio and full stack web development.
+- 💞️ I’m looking for project colabrations and internships to get industrial knowledge.
 - 📫 To reach me - akshit628325@gmail.com.
