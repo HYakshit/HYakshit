@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Akshit Mahajan.
-- 👀 I’m interested in Data Structure and Programming languages.
-- 🌱 Currently I am learning Android Studio and full stack web development.
-- 💞️ I’m looking for project colabrations and internships to get industrial knowledge.
+- 👀 I’m interested in Data Structure and Full stack development.
+- 🌱 Currently working full stack dev in futurionic.
 - 📫 To reach me - akshit628325@gmail.com.
